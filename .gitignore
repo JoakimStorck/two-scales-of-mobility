@@ -23,6 +23,9 @@ dist/
 # Project-specific: data not for redistribution
 data/transitions_20_24.csv
 
+# Cache
+outputs/field_cache/
+
 # LaTeX
 paper/*.aux
 paper/*.bbl

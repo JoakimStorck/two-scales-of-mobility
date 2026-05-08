@@ -1,0 +1,7 @@
+Subgroup,n_edges,w_sum,n_src_occ,n_tgt_occ,src_centroid,tgt_centroid,arrow_len,spread,median_uR
+Upward (-> mgr),581,14.9,101,35,W (194 deg),E (4 deg),0.526,0.253,1.984
+Downward (mgr ->),600,6.4,34,99,E (16 deg),SW (204 deg),0.502,0.298,1.631
+Non-mgr W->S (CCW),1049,23.7,94,173,SW (214 deg),SE (297 deg),0.382,0.325,1.875
+Non-mgr S->NE (CW),761,13.1,80,101,SE (309 deg),SW (211 deg),0.476,0.307,2.045
+Non-mgr NE->NW (CCW),318,6.3,38,75,N (82 deg),W (184 deg),0.554,0.238,2.139
+Non-mgr NW->W (CCW),285,6.5,22,111,W (166 deg),NE (48 deg),0.459,0.109,1.798
