@@ -1,0 +1,26 @@
+system,job_family,weight,share_within_system
+0,Architecture and Engineering,10.77076529400706,38.7
+0,Computer and Mathematical,9.487678407064095,34.1
+0,Management,1.944652976040247,7.0
+0,"Life, Physical, and Social Science",1.9276988450742296,6.9
+0,Other (4 families),3.6887794093391215,13.3
+1,Business and Financial Operations,3.5225414718036747,17.6
+1,Management,2.893442709162478,14.4
+1,Protective Service,2.8897995293362335,14.4
+1,"Installation, Maintenance, and Repair",1.9729593878408125,9.8
+1,Other (7 families),8.769974396950571,43.7
+2,Production,19.835446661622253,33.6
+2,"Installation, Maintenance, and Repair",15.355476272051654,26.0
+2,Construction and Extraction,15.316837884492568,26.0
+2,Transportation and Material Moving,6.575970917277987,11.1
+2,Other (2 families),1.939220859415233,3.2
+3,Office and Administrative Support,32.05650164633429,22.0
+3,Healthcare Practitioners and Technical,19.28959809737666,13.2
+3,Business and Financial Operations,14.904676721486215,10.2
+3,Management,13.55290874980431,9.3
+3,Other (13 families),66.18008552388733,45.3
+4,Production,15.494218664202526,67.1
+4,"Installation, Maintenance, and Repair",3.911524540699059,16.9
+4,Transportation and Material Moving,1.8211227147576525,7.9
+4,Construction and Extraction,0.9522882727493621,4.1
+4,Other (1 families),0.9145962684355193,4.0

@@ -20,7 +20,8 @@ dist/
 *.swp
 .DS_Store
 
-# Project-specific: data not for redistribution
+# Project-specific: raw IPUMS-CPS microdata is not redistributable.
+# The derived aggregate (transitions_20_24_aggregated.csv) IS committed.
 data/transitions_20_24.csv
 
 # Cache

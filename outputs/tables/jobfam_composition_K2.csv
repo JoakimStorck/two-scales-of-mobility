@@ -1,0 +1,11 @@
+system,job_family,weight,share_within_system
+0,Office and Administrative Support,23.541999090746497,14.0
+0,Business and Financial Operations,19.338581702175283,11.5
+0,Healthcare Practitioners and Technical,19.28959809737666,11.4
+0,Management,18.391004435007034,10.9
+0,Other (18 families),88.03968925181863,52.2
+1,Production,35.32966532582478,32.9
+1,"Installation, Maintenance, and Repair",20.267000812750712,18.9
+1,Construction and Extraction,16.269126157241928,15.2
+1,Office and Administrative Support,12.269421328047903,11.4
+1,Other (7 families),23.232680020221725,21.6
